@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Docker
+*.log
+docker-compose.override.yml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+*.csv
